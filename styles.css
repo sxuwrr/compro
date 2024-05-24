@@ -1,3 +1,11 @@
+.gradient-bg {
+    background-image: linear-gradient(rgba(47, 57, 68, 0.6), rgba(47, 57, 68, 0.6)), url('img/ikhwan.JPG');
+    background-size: cover;
+    background-position: center;
+    animation-delay: 0.1s;
+    animation-name: fadeIn;
+}
+
 .header-margin{
     margin-bottom: 20px;
     padding: 0;
