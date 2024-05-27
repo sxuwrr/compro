@@ -4,6 +4,7 @@
     background-position: center;
     animation-delay: 0.1s;
     animation-name: fadeIn;
+    height: 400px;
 }
 
 .header-margin{
@@ -28,9 +29,7 @@
 }
 
 .custom-carousel{
-    max-width: 600px;
-        /* Adjust based on your preference */
-        margin: auto;
+    height: 600px;
 }
 
 .carousel-item img {
@@ -61,6 +60,8 @@
         margin-right: auto;
         /* Centers the image horizontally */
 }
+
+
 
 /* ABOUT US */
 
